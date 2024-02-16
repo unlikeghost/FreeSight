@@ -1,0 +1,1 @@
+conda activate FreeSight-GUI && python .\FreeSight.py
